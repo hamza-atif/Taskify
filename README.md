@@ -25,7 +25,7 @@ How to Run the Project
 Clone the repository:
 
 
-git clone https://github.com/yourusername/taskify.git
+git clone https://github.com/hamza-atif/taskify.git
 cd taskify
 Install dependencies:
 
